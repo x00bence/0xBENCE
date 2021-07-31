@@ -12,7 +12,7 @@ x00bence@arch:~$ bence > README.md
 ![name2](https://img.shields.io/static/v1?label=&message=Bence%20%22x00bence%22%20Kov%C3%A1cs&color=555&style=flat-square)
 
 ![asl](https://img.shields.io/static/v1?label=&message=A%2FS%2FL%3A&color=111&style=flat-square)
-![asl2](https://img.shields.io/static/v1?label=&message=17%2C%20male%2C%20Hungary&color=555&style=flat-square)
+![asl2](https://img.shields.io/static/v1?label=&message=18%2C%20male%2C%20Hungary&color=555&style=flat-square)
 
 ![occupation](https://img.shields.io/static/v1?label=&message=occupation%3A&color=111&style=flat-square)
 ![occupation2](https://img.shields.io/static/v1?label=&message=student%2C%20full%20stack%20developer&color=555&style=flat-square)
