@@ -26,4 +26,4 @@ x00bence@arch:~$ bence > README.md
 ![contact](https://img.shields.io/static/v1?label=&message=contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=x00bence&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=gmail&label=&message=bence.kovacs.code%40gmail.com&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Bence%230666&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Bence%2301337&color=555&logoColor=AAA&style=flat-square)
